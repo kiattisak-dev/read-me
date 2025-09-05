@@ -26,5 +26,5 @@ Capable of backend development and ready to learn and grow through internship op
 
 ## 🎯 Summary
 
-I am a 4ᵗʰ-year Software Engineering student at Mae Fah Luang University, passionate about frontend development with modern frameworks.  
+I am a 4ᵗʰ year Software Engineering student at Mae Fah Luang University, passionate about frontend development with modern frameworks.  
 Also experienced in backend technologies and eager to keep learning and improving through internship opportunities.
